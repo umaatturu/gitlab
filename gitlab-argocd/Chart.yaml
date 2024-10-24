@@ -7,6 +7,6 @@ appVersion: "0.1"
 
 dependencies:
   - name: gitlab
-    version: *.*.*'
+    version: '*.*.*'
     repository: https://charts.gitlab.io
     
